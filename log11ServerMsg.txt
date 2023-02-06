@@ -1,0 +1,146 @@
+
+(scene rsg/agent/nao/nao_hetero.rsg 0)(syn)
+
+(init (unum 11)(teamname BahiaRT))(syn)
+
+(beam -0.4 -0.06 9)(syn)
+
+(he1 0)(he2 -0.21)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.958298)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.448738)(rae1 -0.448738)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.848778)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -1.60132)(rae1 -1.60132)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -10)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -3.27859)(rae1 -3.27859)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -10)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -5.34548)(rae1 -5.34548)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -10)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -7.49847)(rae1 -7.49847)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -8.28243)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -9.93425)(rae1 -9.93425)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -5.07898)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -12.1285)(rae1 -12.1285)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -1.87096)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -13.7317)(rae1 -13.7317)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 1.4055)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -14.6045)(rae1 -14.6045)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 1.4055)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -17.0749)(rae1 -17.0749)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.670807)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -16.5852)(rae1 -16.5852)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.0912668)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -15.2727)(rae1 -15.2727)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.260109)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -13.2203)(rae1 -13.2203)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.310306)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -10.5722)(rae1 -10.5722)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -1.51046)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -7.51123)(rae1 -7.51123)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.295)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 2.32729)(rae1 2.32729)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.556726)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.940162)(rae1 -0.940162)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.401573)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0.164057)(rae1 0.164057)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(say E7xVuuXsDdcE00000000)(he1 0)(he2 0.689063)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.459751)(rae1 -0.459751)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(say E7xVuuXsDdcE00000000)(he1 0)(he2 0.689063)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.507929)(rae1 -0.507929)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.748385)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.780707)(rae1 -0.780707)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -1.10432)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.956915)(rae1 -0.956915)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.716442)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -1.07748)(rae1 -1.07748)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 1.28229)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -1.09169)(rae1 -1.09169)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 1.65649)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.998279)(rae1 -0.998279)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.98568)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.814081)(rae1 -0.814081)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.378757)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.583015)(rae1 -0.583015)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.894413)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.364106)(rae1 -0.364106)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.693625)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.19059)(rae1 -0.19059)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.360503)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.269095)(rae1 -0.269095)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -1.74077e-06)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.146608)(rae1 -0.146608)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.0409996)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0.056864)(rae1 0.056864)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.150591)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0224037)(rae1 -0.0224037)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.132339)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0.00612751)(rae1 0.00612751)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.0501986)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.00717197)(rae1 -0.00717197)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.474586)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.00627722)(rae1 -0.00627722)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.497402)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0101139)(rae1 -0.0101139)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.250982)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0118407)(rae1 -0.0118407)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.652555)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0137939)(rae1 -0.0137939)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.652555)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0173276)(rae1 -0.0173276)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(say E7xVuuXsDdgE00000000)(he1 0)(he2 0.310306)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0141873)(rae1 -0.0141873)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(say E7xVuuXsDdcE00000000)(he1 0)(he2 -0.675372)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0116075)(rae1 -0.0116075)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.835089)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0107301)(rae1 -0.0107301)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.483713)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.00409429)(rae1 -0.00409429)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.807708)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.00277827)(rae1 -0.00277827)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.556726)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.0034328)(rae1 -0.0034328)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.132337)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0.00132995)(rae1 0.00132995)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.0958294)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -0.000515268)(rae1 -0.000515268)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.164278)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0.000198448)(rae1 0.000198448)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.114083)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -7.65939e-05)(rae1 -7.65939e-05)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.721006)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 3.13339e-05)(rae1 3.13339e-05)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.661682)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 -1.04446e-05)(rae1 -1.04446e-05)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.282927)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 3.48154e-06)(rae1 3.48154e-06)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.0709999)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.474586)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.438079)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.177969)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.0501968)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.141464)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 1.31424)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 1.24122)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.556726)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(say E7xVuuXsDdgE00000000)(he1 0)(he2 -0.401573)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(say E7xVuuXsDdgE00000000)(he1 0)(he2 -0.689061)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.689061)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 -0.0775757)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.282927)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 0.319435)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
+
+(he1 0)(he2 10)(beam -0.65 0.45 -15)(lle1 0)(rle1 0)(lle2 0)(rle2 0)(lle3 0)(rle3 0)(lle4 0)(rle4 0)(lle5 0)(rle5 0)(lle6 0)(rle6 0)(lae1 0)(rae1 0)(lae2 0)(rae2 0)(lae3 0)(rae3 0)(lae4 0)(rae4 0)(syn)
